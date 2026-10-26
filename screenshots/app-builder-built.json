@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "StyleMate",
+      "hasCanvas": false,
+      "bodyTextLen": 911,
+      "bodyTextHash": "4f363a4c7954ce92d8a0e5a20fe93279055936c83f83505f9287a8463e9a8200",
+      "bodyTextPrefix": "StyleMate Personal closet and outfit planner Style: smart casual",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "StyleMate",
+      "hasCanvas": false,
+      "bodyTextLen": 891,
+      "bodyTextHash": "2635541b6d657adc0dad5c0dd139150e69811d82120dc187a6956270242f1f17",
+      "bodyTextPrefix": "StyleMate Personal closet and outfit planner Closet Looks Sugges",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
